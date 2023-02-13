@@ -15,8 +15,6 @@ This program will brute force any Instagram account you send it its way given a 
 
 It motivates me to keep updating this program.
 
-> **Gpay:**upi://pay?pa=mohanbishnoi8926@okaxis&pn=Mohan Bishnoi&aid=uGICAgID3iuSZVw
-
 ## Requirements
 
 - Python _v3.9_
